@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Saniel Luca
+# 🖥️ Saniel Luca
 
 **`Desenvolvedora FullStack`**
 

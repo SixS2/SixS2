@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Saniel Luca, tenho 18 anos e sou de Brasilia. Concluí o ensino médio no CEMJK, fiz curso técnico em informática na ETB. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UCB. Sou apaixonada por tecnologia e futuramente pretendo criar um canal para criar conteudo sobre "[SixxDEV](https://www.youtube.com/@Six6s2)", onde irei ensinar conteudo interessantes sobre tecnologia (Ainda estou decidindo).
+Me chamo Saniel Luca, tenho 18 anos e sou de Brasilia. Concluí o ensino médio no CEMJK, fiz curso técnico em informática na ETB. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UCB. Sou apaixonado por tecnologia e futuramente pretendo criar um canal para criar conteudo sobre "[SixxDEV](https://www.youtube.com/@Six6s2)", onde irei ensinar conteudo interessantes sobre tecnologia (Ainda estou decidindo).
 
 <p align="left">
     </a> 

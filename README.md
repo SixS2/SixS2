@@ -1,4 +1,4 @@
-# 🖥️ Saniel Luca [ME](https://sixs2.github.io/Landing-Page/)
+# 🖥️ Saniel Luca
 
 **`Desenvolvedor FullStack`**
 
@@ -53,22 +53,6 @@ Me chamo Saniel Luca, tenho 18 anos e sou de Brasilia. Concluí o ensino médio 
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Site
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=SixS2&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=SixS2&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
+ME](https://sixs2.github.io/Landing-Page/)
